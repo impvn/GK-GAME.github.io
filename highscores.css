@@ -1,0 +1,18 @@
+#highScoresList {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 4rem;
+  }
+  table>.high-score{
+      border-block-color: #779999;
+      border: blue;
+  }
+  .high-score {
+    font-size: 2.8rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .high-score:hover {
+    transform: scale(1.025);
+  }
+  
